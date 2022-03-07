@@ -1,4 +1,4 @@
-# Ren'py NX Ports
+# Ren'py NX Ports (Repository is currently a WIP)
 A compilation of Ren'Py homebrew ports for the Nintendo Switch using uyjulian's Ren'Py Switch SDK. Some ports may have bugs that will be listed in each individual game section.
 
 Please note that for all games that cost money, you'll need to provide your own "game" folder from your game of choice in the same folder as the game's .nro file.
