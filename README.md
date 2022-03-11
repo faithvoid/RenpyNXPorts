@@ -21,17 +21,15 @@ Bugs:
 Bugs:
 - Crashes without first converting all the game's assets to Switch-friendly formats using the included "convert.sh" bash script. Otherwise runs perfect, but needs to be played in handheld mode due to the occasional touch prompt.
 
+## Doki Doki Literature Club!
+### Team Salvato
+
+Unofficial port of the Ren'Py visual novel "Doki Doki Literature Club!" by Team Salvato. This is meant to be a fully vanilla port with PC mod support. Keyboard input is currently broken, and save functionality is iffy.
 
 ## Girls Are Weird
 ### Bentosmile
 Unofficial port of the Ren'Py visual novel "Girls Are Weird" by bentosmile.
 
-![gawnx](https://user-images.githubusercontent.com/56975081/157101230-1648fd85-84b4-4f2e-acf8-4d25b373188e.jpg)
-
-## Doki Doki Literature Club!
-### Team Salvato
-
-Unofficial port of the Ren'Py visual novel "Doki Doki Literature Club!" by Team Salvato. This is meant to be a fully vanilla port with PC mod support. Keyboard input is currently broken, and save functionality is iffy.
 
 ## CenaNX
 ### Lazlo319
