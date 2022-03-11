@@ -31,7 +31,7 @@ Bugs:
 *<p align=center>★DREAM THERAPY★!</p>*
 
 Bugs:
-- Crashes without first converting all the game's assets to Switch-friendly formats using the included "convert.sh" bash script. Otherwise runs perfect, but needs to be played in handheld mode due to the occasional touch prompt.
+- Crashes without first converting all the game's assets to Switch-friendly formats using the included "convert.sh" bash script (which seems to degrade the image quality somewhat). Otherwise runs perfect, but needs to be played in handheld mode due to the occasional touch prompt.
 
 
 ## Doki Doki Literature Club!
