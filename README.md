@@ -5,13 +5,13 @@ Please note that for all games that cost money, you'll need to provide your own 
 
 ## Milk inside a bag of milk inside a bag of milk
 ![](https://cdn.cloudflare.steamstatic.com/steam/apps/1392820/ss_b226e8d681fb98abba8f86bb4e5805f63ecf44b6.1920x1080.jpg)
-<p align=center>*A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.*</p>
+*<p align=center>A short story about what sort of challenges everyday little things can be. Help the girl buy milk, be the first not to disappoint her.</p>*
 
 
 ## Milk outside a bag of milk outside a bag of milk
 ![](https://cdn.cloudflare.steamstatic.com/steam/apps/1604000/ss_336ab6c78787083ba9d2d27bdfe69a55f0b950c4.1920x1080.jpg)
-<p align=center>*The game is a sequel to Milk inside a bag of milk inside a bag of milk.*</p>
-<p align=center>*The game's events begin the same moment the first game ends.*</p>
+*<p align=center>The game is a sequel to Milk inside a bag of milk inside a bag of milk.</p>*
+*<p align=center>The game's events begin the same moment the first game ends.</p>*
 
 
 ## Girls Are Weird
