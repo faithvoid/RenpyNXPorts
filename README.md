@@ -21,13 +21,26 @@ Bugs:
 Bugs:
 - Crashes without first converting all the game's assets to Switch-friendly formats using the included "convert.sh" bash script. Otherwise runs perfect, but needs to be played in handheld mode due to the occasional touch prompt.
 
+## [Therapy with Dr. Albert Krueger](https://github.com/faithvoid/RenpyNXPorts/releases/tag/TWDAK)
+### by [dino999z](https://dino999z.itch.io)
+![](https://www.vngameden.com/wp-content/uploads/2020/11/screenshot0002.png)
+*<p align=center>Has work been feeling more tiring than usual?</p>*
+*<p align=center>Your mood, confusing and uneasy?</p>*
+*<p align=center>Losing the confidence to speak up when you want to?</p>*
+*<p align=center>Then it sounds like you need our newly patented </p>*
+*<p align=center>★DREAM THERAPY★!</p>*
+
+Bugs:
+- Crashes without first converting all the game's assets to Switch-friendly formats using the included "convert.sh" bash script. Otherwise runs perfect, but needs to be played in handheld mode due to the occasional touch prompt.
+
+
 ## Doki Doki Literature Club!
-### Team Salvato
+### by Team Salvato
 
 Unofficial port of the Ren'Py visual novel "Doki Doki Literature Club!" by Team Salvato. This is meant to be a fully vanilla port with PC mod support. Keyboard input is currently broken, and save functionality is iffy.
 
 ## Girls Are Weird
-### Bentosmile
+### by Bentosmile
 Unofficial port of the Ren'Py visual novel "Girls Are Weird" by bentosmile.
 
 
